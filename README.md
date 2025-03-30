@@ -21,7 +21,9 @@ Python tool for converting ASCII to text and test to ASCII
 2. Change directory:
    ```bash
    cd ./ASCII-TOOL
-3. Run the script:
+   ```bash
+   pip install requirements.txt
+4. Run the script:
    ```bash
    python3 ASCII-TOOL.py
 
