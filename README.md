@@ -20,7 +20,7 @@ Python tool for converting ASCII to text and test to ASCII
    python3 ASCII-TOOL.py
 
 ## Tutorial
-![Text file to convert](Screenshots/s1.png)
+![Text file to convert](Screenshots/sc1.png)
 
 ## Tested Platforms
 
