@@ -11,7 +11,10 @@ Python tool for converting ASCII to text and test to ASCII
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/repository.git
-2. Run the script:
+2. Change directory:
+   ```bash
+   cd ASCII-TOOL
+3. Run the script:
    ```bash
    python3 ASCII-TOOL.py
 
