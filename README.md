@@ -20,7 +20,10 @@ Python tool for converting ASCII to text and test to ASCII
    python3 ASCII-TOOL.py
 
 ## Tutorial
-![Text file to convert](Screenshots/sc1.png)
+1. The file we are going to convert to ASCII
+	![Text file to convert](Screenshots/sc1.png)
+2. Run ASCII-TOOL.py, select mode, enter the filepath to the file you would like to convert (in this case /home/dom/coding/python/temp/text.txt) and enter the path to the output file that will be created (in this case /home/dom/coding/python/temp/ascii.txt)
+	![Run script 1](Screenshots/sc2.png)
 
 ## Tested Platforms
 
