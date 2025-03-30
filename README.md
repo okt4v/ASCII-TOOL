@@ -4,6 +4,7 @@ Python tool for converting ASCII to text and test to ASCII
 ## Table of Contents
 
 - [Installation](#installation)
+- [Tutorial](#tutorial)
 - [Tested Platforms](#testedon)
 
 ## Installation
@@ -17,6 +18,9 @@ Python tool for converting ASCII to text and test to ASCII
 3. Run the script:
    ```bash
    python3 ASCII-TOOL.py
+
+## Tutorial
+![](/home/dom/Pictures/s1.png)
 
 ## Tested Platforms
 
