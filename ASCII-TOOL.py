@@ -1,4 +1,4 @@
-from time import sleep
+from colorama import init, Fore, Back, Style
 
 def banner():
 	print('				+----------+')
@@ -8,7 +8,6 @@ def banner():
 	print('								|made by okt4v|')
 	print("								'''''''''''''''")
 	print('\n')
-	sleep(1)
 
 def textToAscii():
 	print('\n')
