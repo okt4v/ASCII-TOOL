@@ -13,7 +13,7 @@ Python tool for converting ASCII to text and test to ASCII
    git clone https://github.com/username/repository.git
 2. Change directory:
    ```bash
-   cd ASCII-TOOL
+   cd ./ASCII-TOOL
 3. Run the script:
    ```bash
    python3 ASCII-TOOL.py
