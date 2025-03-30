@@ -58,7 +58,6 @@ In the future I am planning on adding a couple of new things and improving some 
 
 ## Tested Platforms
 
-1. Tested on:
-   Linux Parrot OS
+	- Linux (Parrot OS)
     
    
