@@ -3,9 +3,15 @@ Python tool for converting ASCII to text and test to ASCII
 
 ## Table of Contents
 
+- [!DISCLAIMER!](#disclaimer)
 - [Installation](#installation)
 - [Tutorial](#tutorial)
+- [Future Updates](#futureupdates)
 - [Tested Platforms](#testedon)
+
+## !DISCLAIMER!
+   
+   This is in no ways meant to be anything impressive, just practicing some skills thats all!
 
 ## Installation
 
@@ -39,6 +45,16 @@ Python tool for converting ASCII to text and test to ASCII
 5. Open the file and verify that it has successfuly been converted.
 
    ![Final converted file](Screenshots/sc5.png)
+
+## Future Updates
+
+In the future I am planning on adding a couple of new things and improving some already existing things:
+   
+   1. Improve overall code logic for better performance
+   2. Improve terminal user interface (colors, layout, ...)
+   3. Improve error handling
+   4. Add command line arguments for quick and easy access to the tool without the terminal user interface 
+
 
 ## Tested Platforms
 
