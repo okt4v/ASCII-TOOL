@@ -1,5 +1,5 @@
 # ASCII-TOOL
-Python tool for converting ASCII to text and test to ASCII
+Python tool for converting ASCII to text and text to ASCII
 
 ## Table of Contents
 
