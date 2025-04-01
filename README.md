@@ -12,7 +12,8 @@ Python tool for converting ASCII to text and text to ASCII
 ## !DISCLAIMER!
    
    This is in no ways meant to be anything impressive, just practicing some skills thats all!
-
+   Also Probably wont be working on this very actively!
+	
 ## Installation
 
 1. Clone the repository:
